@@ -1,0 +1,213 @@
+#div1
+{
+    background-color: black;
+    height: 107px;
+    width: 1518px;
+    position: absolute;
+}
+#img1
+{
+    height: 107px;
+    position: absolute;
+    left: 132px;
+}
+.button 
+{
+    position: absolute;
+    color: white;
+    text-decoration: none;
+    margin-top: 68px;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+#b1
+{
+    left: 622px;
+}
+#b2
+{
+    left: 720px;
+}
+#b3
+{
+    left: 830px;
+}
+#b4
+{
+    left: 999px;
+}
+#b5
+{
+    left: 1075px;
+}
+#b6
+{
+    left: 1150px;
+}
+#img2
+{
+    position: absolute;
+    margin-top: 108px;
+    width: 1518px;
+    height: 641px;
+}
+#div2
+{
+    position: absolute;
+    background-color: #141414;
+    margin-top: 750px;
+    height: 94px;
+    width: 1518px;
+}
+#serch
+{
+    height: 34px;
+    width: 1245px;
+    margin-top: 29px;
+    margin-left: 134px;
+
+}
+#serch::placeholder
+{
+    font-family: cursive;
+    text-indent: 0px;
+}
+#div3
+{
+    position: absolute;
+    height: 600px;
+    width: 1518px;
+    background-color: black;
+    margin-top: 840px;
+}
+#h1
+{
+    color: white;
+    text-align: center;
+    margin-top: 123px;
+    font-size: 24px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#h2
+{
+    color: white;
+    text-align: center;
+    margin-top: 40px;
+    font-size: 15px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#bt4
+{
+    background-color: #0088C6;
+    height: 36px;
+    width: 230px;
+    margin-left: 649px;
+}
+#div4
+{
+    position: absolute;
+    width: 1518px;
+    height: 571px;
+    margin-top: 1440px;
+    background-color: black;
+}
+.imgs
+{
+    position: absolute;
+    height: 169px;
+    width: 300px;
+    margin-top: 60px;
+}
+#imf
+{
+    margin-left: -600px;
+}
+#imf2
+{
+    margin-left: -280px;
+}
+#imf3
+{
+    margin-left: 40px;
+}
+#imf4
+{
+    height: 572px;
+    width: 1014px;
+}
+#imf5
+{
+    position: absolute;
+    height: 282px;
+    width: 509px;
+}
+#imf6
+{
+    position: absolute;
+    height: 282px;
+    width: 509px;
+    margin-top: 285px;
+}
+#div6
+{
+    position: absolute;
+    height: 574px;
+    width: 1518px;
+    margin-top: 2000px;
+}
+#imf7
+{
+    position: absolute;
+    height: 287px;
+    width: 505px;
+    margin-top: 12px;
+}
+#imf8
+{
+    position: absolute;
+    height: 287px;
+    width: 505px;
+    margin-top: 12px;
+    margin-left: 1005px;
+}
+#imf9
+{
+    position: absolute;
+    height: 287px;
+    width: 500px;
+    margin-top: 12px;
+    margin-left: 505px;
+}
+#imf10
+{
+    position: absolute;
+    height: 287px;
+    width: 500px;
+    margin-top: 300px;
+    margin-left: 0px;
+}
+#imf11
+{
+    position: absolute;
+    height: 287px;
+    width: 500px;
+    margin-top: 300px;
+    margin-left: 1008px;
+}
+#imf12
+{
+    position: absolute;
+    height: 287px;
+    width: 506px;
+    margin-top: 300px;
+    margin-left: 501px;
+}
+.div9
+{
+    background-color: black;
+    position: absolute;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+    width: 1518px;
+    height: 639px;
+    margin-top: 2588px;
+}
